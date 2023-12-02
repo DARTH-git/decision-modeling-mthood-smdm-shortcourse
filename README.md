@@ -27,3 +27,9 @@ following steps:
     checking permissions in the folder they are working in, updating
     their version of R or Rstudio, etc.). There will be a limited amount
     of time to resolve R software issues during the workshop.
+
+## Course instructors:
+
+- [Jeremy D. Goldhaber-Fiebert](https://github.com/jeremygf)
+
+- [Fernando Alarid-Escudero](https://github.com/feralaes)
